@@ -1,0 +1,1134 @@
+{
+    "sonicPi": {
+        "id": 1,
+        "name": "welcome",
+        "location": "https://arweave.net/GtRAbq8kKz_aO6PEqvngsMnBW_l3X4kN0nOAK5y8Y4M",
+        "description": "first algorithmic composition",
+        "length": 26.43
+    },
+    "human in the loop vol 1": {
+        "id": 2,
+        "description": "freestyle with flute and drum",
+        "tracks": [
+            {
+                "id": 1,
+                "name": "intro",
+                "location": "https://arweave.net/B2nYw9URD4fYF_CSCLdMKWA5_CCjnRrDdC95cMogaUk",
+                "length": 1.56
+            },
+            {
+                "id": 2,
+                "name": "section 1",
+                "location": "https://arweave.net/WOXcBMl9wVA0a1NUeWvBKVUlhWhz410u3Kncn-j4cxc",
+                "length": 2.30
+            },
+            {
+                "id": 3,
+                "name": "section 2",
+                "location": "https://arweave.net/fwPsuZKkfyefZtMxkZ8FrfdQWJhcTFyk7Hp6hxIVBrE",
+                "length": 0.28
+            },
+            {
+                "id": 4,
+                "name": "section 3",
+                "location": "https://arweave.net/Y5t2fYzTbDZOHe1WmdT3ET5mhq-wwWn41vAxnMkVt18",
+                "length": 4.26
+            },
+            {
+                "id": 5,
+                "name": "section 4",
+                "location": "https://arweave.net/HkpVan2xQrpcikz0GouDkO8lnoO3ofZyrRLqQaneSp4",
+                "length": 2.33
+            },
+            {
+                "id": 6,
+                "name": "section 5(reverb unlocked)",
+                "location": "https://arweave.net/LStr9j3icr9cka4mfHQHBbKe5-IBDAazCSf6zoNfN-U",
+                "length": 0.23
+            },
+            {
+                "id": 7,
+                "name": "section 6(flute solo)",
+                "location": "https://arweave.net/2IvMGSjScC1jYmV53H_nvHj8oGA007g8qE-zhOIcKKE",
+                "length": 3.06
+            },
+            {
+                "id": 8,
+                "name": "section 7(flute solo)",
+                "location": "https://arweave.net/NrxOATRqSTi52sT7GniSBRRTwJ7Jq8NoEsEaXQNmsu8",
+                "length": 1.24
+            },
+            {
+                "id": 9,
+                "name": "section 8",
+                "location": "https://arweave.net/AcENTCeXhEvHkS6xqWpbeSGoOp3ypHMarHOLLV9TIsA",
+                "length": 1.14
+            }
+        ]
+    },
+    "echo chamber": {
+        "id": 3,
+        "description": "creative sandbox",
+        "series 1": {
+            "vol 1": [
+                {
+                    "id": 1,
+                    "name": "echo 0",
+                    "location": "https://arweave.net/sGODBvlAnamWIdy-Op_hW14fKBTPWlZSZk4c3uibGos",
+                    "length": 6.18
+                },
+                {
+                    "id": 2,
+                    "name": "echo 1",
+                    "location": "https://arweave.net/zPh_E6tv72MWOYhmPKHitWzTQ1oglNNqrPAoWo9YR98",
+                    "length": 0.56
+                },
+                {
+                    "id": 3,
+                    "name": "echo 2",
+                    "location": "https://arweave.net/wiaAF-WKOcFoRIkFGAroDHOh30yFiaNQR8Ww95D3Tgg",
+                    "length": 3.33
+                },
+                {
+                    "id": 4,
+                    "name": "echo 3",
+                    "location": "https://arweave.net/UkG1ehwEsfKFdyPqCWTO9BqyP5ezSKog_bdY1va8NGo",
+                    "length": 2.27
+                },
+                {
+                    "id": 5,
+                    "name": "echo 4",
+                    "location": "https://arweave.net/RxFRhA_X10gfBbQYE2U18ZJEPCqkIXDvChMnhIdDcao",
+                    "length": 3.12
+                },
+                {
+                    "id": 6,
+                    "name": "echo 5",
+                    "location": "https://arweave.net/cyL9PXWc4JgLKRfHgHTduBAJdRv0yB4465omez1bb9M",
+                    "length": 4.59
+                },
+                {
+                    "id": 7,
+                    "name": "echo 6",
+                    "location": "https://arweave.net/lnGd-P8-VBC2J090JPeP-94t5JMTeGa-QZen_CzUd4k",
+                    "length": 4.00
+                },
+                {
+                    "id": 8,
+                    "name": "echo 7",
+                    "location": "https://arweave.net/tLbsk2FoX8SXCRxWNyOmrz_007J4zsaI_fYaSLCpIlE",
+                    "length": 3.20
+                },
+                {
+                    "id": 9,
+                    "name": "echo 8",
+                    "location": "https://arweave.net/EzDeMFbJe2QsRSoY0kLpW2qEsDdbLlZ7Q_hJ1r-rbwA",
+                    "length": 1.35
+                },
+                {
+                    "id": 10,
+                    "name": "echo 9",
+                    "location": "https://arweave.net/YCPPlo-cvaEahS62NwJd_qCcbimvGKTDe___l5eEDmg",
+                    "length": 3.34
+                },
+                {
+                    "id": 11,
+                    "name": "echo 10",
+                    "location": "https://arweave.net/Zfap3yM_RE67ocuFfnK0L5eZnBGG4F7h4gjeN5TmIog",
+                    "length": 2.38
+                },
+                {
+                    "id": 12,
+                    "name": "echo 11",
+                    "location": "https://arweave.net/0pBgFbAFQvs8MZ3IkdTdSbAwTP7g9faUJw9iQnirwA8",
+                    "length": 2.41
+                },
+                {
+                    "id": 13,
+                    "name": "echo 12",
+                    "location": "https://arweave.net/X6XDfLQ1oPgyAnRFGDueznQcKHCF7K_75rv-YOXcWWw",
+                    "length": 2.26
+                }
+            ],
+            "vol 2": [
+                {
+                    "id": 1,
+                    "name": "graffiti echo",
+                    "location": "https://arweave.net/cKeqsgVTFHz8PGdX5fVSw4VHPxI5iIgqisyV-2MP5lc",
+                    "length": 2.00
+                }
+            ]
+        }
+    },
+    "wind recording": {
+        "id": 4,
+        "description": "exploration of soundscapes",
+        "tracks": [
+            {
+                "id": 80,
+                "name": "recording 80",
+                "location": "https://arweave.net/0Ywfi4IvLBwYJxukrCnMd2RE0ccMENETmJlODDW4nTc",
+                "description": "December sessions",
+                "length": 2.29
+            },
+            {
+                "id": 79,
+                "name": "recording 79",
+                "location": "https://arweave.net/PE0Ca8F-HzEd_UxdyfRNKzjkTi2SsJ3li5wgZOEzjuU",
+                "description": "December sessions",
+                "length": 2.50
+            },
+            {
+                "id": 78,
+                "name": "recording 78",
+                "location": "https://arweave.net/m4Z4CbMojOFGJgM3xLo9DSgziC5V18BeiMh8AJI_9bQ",
+                "description": "November sessions",
+                "length": null
+            },
+            {
+                "id": 77,
+                "name": "recording 77",
+                "location": "https://arweave.net/vT2fHysDVQP-javUSo1C2OnDzKCXSmKM1Sq4u5PyblA",
+                "description": "November sessions",
+                "length": null
+            },
+            {
+                "id": 76,
+                "name": "recording 76",
+                "location": "https://arweave.net/hQNJXf0RFjWyRXf4tuN5lgzTC5Qpncbkcw6JmQq7HsQ",
+                "description": "writing vibes",
+                "length": null
+            },
+            {
+                "id": 75,
+                "name": "recording 75",
+                "location": "https://arweave.net/Ks-QLNDeCqudtyWP8jmlXQoFQlmXBCE0yM9Or0lTzW0",
+                "description": "October sessions",
+                "length": null
+            },
+            {
+                "id": 74,
+                "name": "recording 74",
+                "location": "https://arweave.net/1bYvIqza0A_Bk3BVLGWVAoHIDqHr4IQ60-IqXXeFNQs",
+                "description": "October sessions",
+                "length": null
+            },
+            {
+                "id": 73,
+                "name": "recording 73",
+                "location": "https://arweave.net/f_CqaKgcFnq20IrE1yQRTdvt5P_KeHTSWWdPGP6eCLk",
+                "description": "mosquito @ 1:35",
+                "length": null
+            },
+            {
+                "id": 72,
+                "name": "recording 72",
+                "location": "https://arweave.net/O0co2gNjTpelwTel2Np8K0KZkKouVj5KtRlcfOE02zs",
+                "description": "no description",
+                "length": null
+            },
+            {
+                "id": 71,
+                "name": "recording 71",
+                "location": "https://arweave.net/ipBirkRIQWOUzNBej8ot-GC8uaGZMh9nVPgWQAPo7iU",
+                "description": "misty morning origami vibes",
+                "length": null
+            },
+            {
+                "id": 70,
+                "name": "recording 70",
+                "location": "https://arweave.net/hqnTYKqLXfsVyO-P7zBF96X4mdxMcsfiUUWc43UYTmk",
+                "description": "outdoor origami vibes",
+                "length": null
+            },
+            {
+                "id": 69,
+                "name": "recording 69",
+                "location": "https://arweave.net/a0P53DkP0Gr76sdwbe0FrC8g1tkiZIJpfMkv_JBgONY",
+                "description": "cityscapes: rainy day live from the balcony",
+                "length": null
+            },
+            {
+                "id": 68,
+                "name": "recording 68",
+                "location": "https://arweave.net/jHLzxp7p50jeHSU3otPa0XlqAp8oAwh5OJHF7YcWeUA",
+                "description": "morning birds",
+                "length": null
+            },
+            {
+                "id": 67,
+                "name": "recording 67",
+                "location": "https://arweave.net/E1ox983H44E2lLUz7LhGcC4hp6OzjgIZuXIaTDomVW0",
+                "description": "distress @ 0:58",
+                "length": null
+            },
+            {
+                "id": 66,
+                "name": "recording 66",
+                "location": "https://arweave.net/pLmNJnf7ptJH2cg2kzBhbRgbO_gM68BeyBW7EKsukf8",
+                "description": "tweety @ 1:30",
+                "length": null
+            },
+            {
+                "id": 65,
+                "name": "recording 65",
+                "location": "https://arweave.net/Ya9YwGZhUDowVLk50W1OO1wp8DSA6hRsnvRUS02OSu4",
+                "description": "morning birds",
+                "length": null
+            },
+            {
+                "id": 64,
+                "name": "recording 64",
+                "location": "https://arweave.net/fDRIv8Y5jJZVq9GUPTqtwBOOiqpuNgeG8iKL8xnCPnE",
+                "description": "writing space",
+                "length": null
+            },
+            {
+                "id": 63,
+                "name": "recording 63",
+                "location": "https://arweave.net/jRJCI3YVrAoTeI06BKEToypJLtlJ0WbEwKkWNSATn7s",
+                "description": "back to the forest",
+                "length": null
+            },
+            {
+                "id": 62,
+                "name": "recording 62",
+                "location": "https://arweave.net/j7tBAFJmBwhWYAGaNPscaLmsdU3SQXMwsDoEJgUk_kE",
+                "description": "prairie birds too",
+                "length": null
+            },
+            {
+                "id": 61,
+                "name": "recording 61",
+                "location": "https://arweave.net/r39s8aa3qq7L9GGkZf-_FZ0VAZMmWkFvAcJMc2ERmRY",
+                "description": "prairie birds",
+                "length": null
+            },
+            {
+                "id": 60,
+                "name": "recording 60",
+                "location": "https://arweave.net/X_cWHb1zsvy62UZQLniqWsbrGRACrgdzUpBTuUQ6cX0",
+                "description": "prairie interlude too",
+                "length": null
+            },
+            {
+                "id": 59,
+                "name": "recording 59",
+                "location": "https://arweave.net/n0LiCEN0F5TZp-ls-xCUG6eTBL-ENdLkZHde31Jtn5c",
+                "description": "prairie interlude",
+                "length": null
+            },
+            {
+                "id": 58,
+                "name": "recording 58",
+                "location": "https://arweave.net/y03KEMv9OhZb_n2vrWNpLYsTxqBAVqasPxixIfbEG2I",
+                "description": "solstice morning sirens",
+                "length": null
+            },
+            {
+                "id": 57,
+                "name": "recording 57",
+                "location": "https://arweave.net/6CxkfZytwOMFp4kOjOtWqsO6Z8Lw31f1gc3eLvW3BpM",
+                "description": "call and response",
+                "length": null
+            },
+            {
+                "id": 56,
+                "name": "recording 56",
+                "location": "https://arweave.net/EGwEFNaWSVKR5XltUZfhUyB92ZIapb8qI9yzJb80orc",
+                "description": "graffiti heaven ambient",
+                "length": null
+            },
+            {
+                "id": 55,
+                "name": "recording 55",
+                "location": "https://arweave.net/OwoXWJSeLSrIWSpu9Estf-FC1VWR7bba4zXr1i-DRQQ",
+                "description": "crow @ 0:10",
+                "length": null
+            },
+            {
+                "id": 54,
+                "name": "recording 54",
+                "location": "https://arweave.net/8RALD-DBBXvbaVe79Tr4L_xYusil3ibWYjez6Xe_tH8",
+                "description": "by the bandstand",
+                "length": null
+            },
+            {
+                "id": 53,
+                "name": "recording 53",
+                "location": "https://arweave.net/mq3feCil5nhA0oRrOnvS2o6t5BeXswu0U7RnKDnqyvU",
+                "description": "plane @ 2:30",
+                "length": null
+            },
+            {
+                "id": 52,
+                "name": "recording 52",
+                "location": "https://arweave.net/nkeSRvV1POyYA8v_1HEP2X4py8eN9Bo7fXlfis7RTD4",
+                "description": "even mo morning birds",
+                "length": null
+            },
+            {
+                "id": 51,
+                "name": "recording 51",
+                "location": "https://arweave.net/C7xBt92WbTeg9XY11IrAMLbVwi6oCzceSLfPmucJ_9s",
+                "description": "mo morning birds",
+                "length": null
+            },
+            {
+                "id": 50,
+                "name": "recording 50",
+                "location": "https://arweave.net/iIMN9UcsR7VHUYQ4JSsDhatX3P8G0PE9NalSqw9UY7A",
+                "description": "morning birds",
+                "length": null
+            },
+            {
+                "id": 49,
+                "name": "recording 49",
+                "location": "https://arweave.net/-Z2jwb6MxWsly5SJh4_3Ejw1X7n7TbqBjpalZv7ay5Y",
+                "description": "plane @ 0:30",
+                "length": null
+            },
+            {
+                "id": 48,
+                "name": "recording 48",
+                "location": "https://arweave.net/2WQsQzo7wKnlvJR6C-Ii1uGTKmFWr6urcQLfJQ2f7Ik",
+                "description": "prairie birds",
+                "length": null
+            },
+            {
+                "id": 47,
+                "name": "recording 47",
+                "location": "https://arweave.net/EyOp7_m7ltmaH0WeekUjCKu4JFeZy5VbncSrqcr8elg",
+                "description": "ctrain @ 1:35",
+                "length": null
+            },
+            {
+                "id": 46,
+                "name": "recording 46",
+                "location": "https://arweave.net/qzi0509bdzOkVjFlBrpv7gI7ok1ExtcBPlF52Fb6wJo",
+                "description": "solo @ 0:26",
+                "length": null
+            },
+            {
+                "id": 45,
+                "name": "recording 45",
+                "location": "https://arweave.net/rxStz4Vq34qAkpW899qXpgKQdGfFn0pql3YgxorFvWk",
+                "description": "still in the forest",
+                "length": null
+            },
+            {
+                "id": 45,
+                "name": "recording 45",
+                "location": "https://arweave.net/rxStz4Vq34qAkpW899qXpgKQdGfFn0pql3YgxorFvWk",
+                "description": "still in the forest",
+                "length": null
+            },
+            {
+                "id": 44,
+                "name": "recording 44",
+                "location": "https://arweave.net/Q8lsnurUu9qdgXDIqjbBr8NH5AjBvJJm-I2hAzKtdHo",
+                "description": "seagulls and crows at skatepark",
+                "length": null
+            },
+            {
+                "id": 43,
+                "name": "recording 43",
+                "location": "https://arweave.net/ooYJyLZ2b3kuXP0BGuDGpEDw9SPrtoo8XhEUMs0PYlY",
+                "description": "siren @ 0:52",
+                "length": null
+            },
+            {
+                "id": 42,
+                "name": "recording 42",
+                "location": "https://arweave.net/ZLSHXm4NIc3EqsclKfKcT-NLnvrnLj5PuWcuNYrKhug",
+                "description": "back in the forest",
+                "length": null
+            },
+            {
+                "id": 41,
+                "name": "recording 41",
+                "location": "https://arweave.net/yxtqKcgZRHy2X5H7F4BJi44IyOy0g_dnDu9qIz6OrTk",
+                "description": "murder of crows",
+                "length": null
+            },
+            {
+                "id": 40,
+                "name": "recording 40",
+                "location": "https://arweave.net/qIYQm-z_FBFMnvaMf76ZFLmLtHKEKQinam1RPk2QG3A",
+                "description": "rooster @ 0:15",
+                "length": null
+            },
+            {
+                "id": 39,
+                "name": "recording 39",
+                "location": "https://arweave.net/Tl-v0oEM9NF3Ak13Lt-nyWWjWgVQ3ewMwGF3Q2YIG5Y",
+                "description": "6am in kilifi",
+                "length": null
+            },
+            {
+                "id": 38,
+                "name": "recording 38",
+                "location": "https://arweave.net/X8D3aoE0xc0uqUl8I-vR2G0OLCoh1ycwq1QnOROtfNE",
+                "description": "still live from the motherland",
+                "length": null
+            },
+            {
+                "id": 37,
+                "name": "recording 37",
+                "location": "https://arweave.net/yz9Qg9UnvzqrkULHCrAOrsU4YhO-tsApKAr4kp-SSxg",
+                "description": "live from the motherland",
+                "length": null
+            },
+            {
+                "id": 36,
+                "name": "recording 36",
+                "location": "https://arweave.net/YT2KEhxtOXQn4BzbGE12AsM8xaBbfAzK-lmz6PTDm7I",
+                "description": "starts at water",
+                "length": null
+            },
+            {
+                "id": 35,
+                "name": "recording 35",
+                "location": "https://arweave.net/bK24xzk-pQ8lkB1takD4HiAKLb6nMk1SE4WJNJDd48Y",
+                "description": "plane @ 1:15",
+                "length": null
+            },
+            {
+                "id": 34,
+                "name": "recording 34",
+                "location": "https://arweave.net/Pnrf1uAYZJ3AW9jptvtOA-2MZTd_1ecgmZpd0EpAEfk",
+                "description": "birds in the water",
+                "length": null
+            },
+            {
+                "id": 33,
+                "name": "recording 33",
+                "location": "https://arweave.net/9NKlOaZRwGUAvFPqVa1T4XQ4QkHVlUeDW5lVKaB_0Hs",
+                "description": "mallard @ 0:38",
+                "length": null
+            },
+            {
+                "id": 32,
+                "name": "recording 32",
+                "location": "https://arweave.net/R4--8c8ZNahbJ4KYhP7kk3aDvV9q79AhVYGjI908RIU",
+                "description": "message from the recorder",
+                "length": null
+            },
+            {
+                "id": 31,
+                "name": "recording 31",
+                "location": "https://arweave.net/zWGEYmBXf-ZpJJn4FVPy-hF_SahQk44F9bZ6PYuQ8To",
+                "description": "playing birds",
+                "length": null
+            },
+            {
+                "id": 30,
+                "name": "recording 30",
+                "location": "https://arweave.net/QEEyLcWppEdRpva9WLkK05E67M_w5vXMlEyQ3T0Mhgw",
+                "description": "snowsteps but in -40C",
+                "length": null
+            },
+            {
+                "id": 29,
+                "name": "recording 29",
+                "location": "https://arweave.net/FNqDq39A_FNuc3URjB1DDv5lqf7YTV9M0UPlvsyGRbM",
+                "description": "snowsteps",
+                "length": null
+            },
+            {
+                "id": 28,
+                "name": "recording 28",
+                "location": "https://arweave.net/Lay9nglhmlFGCYy35JkFzjGAuZPR4ykgeztEjQfjmac",
+                "description": "cityscapes",
+                "length": null
+            },
+            {
+                "id": 27,
+                "name": "recording 27",
+                "location": "https://arweave.net/QTfcfl9DVViGBL44sdUytnAIxdbL4DzV-oGlInv1mTg",
+                "description": "train @ 0:35",
+                "length": null
+            },
+            {
+                "id": 26,
+                "name": "recording 26",
+                "location": "https://arweave.net/22YJpx0vB-Ixxg0i3rLGO29pOWqMrdg1NJiEju5PeOw",
+                "description": "water feature",
+                "length": null
+            },
+            {
+                "id": 25,
+                "name": "recording 25",
+                "location": "https://arweave.net/hgqcc4kGyM2EiUwqA6brYQurZnt4wnsqmSvFKtWRa0o",
+                "description": "mallard @ 0:11",
+                "length": null
+            },
+            {
+                "id": 24,
+                "name": "recording 24",
+                "location": "https://arweave.net/zyURQqzYWHCfGA971N8MuHIfk2oBjlqN71SyuRAU76k",
+                "description": "murder of crows following",
+                "length": null
+            },
+            {
+                "id": 23,
+                "name": "recording 23",
+                "location": "https://arweave.net/nygMtAA5X8hxXyt2JwMHdqo4uf6nfKuKeOAZB9yeb7Y",
+                "description": "pedestrian energy",
+                "length": null
+            },
+            {
+                "id": 22,
+                "name": "recording 22",
+                "location": "https://arweave.net/zd4rxwf7rrTVB9a144ce-rQlCi9XDnipkSwvYAlgq94",
+                "description": "crow calling its squad @ 0:16",
+                "length": null
+            },
+            {
+                "id": 21,
+                "name": "recording 21",
+                "location": "https://arweave.net/x2ixH7LCUv5f6HEjKa1G_UbZOKeNLXfxuDE80Agk9EM",
+                "description": "no description, just art",
+                "length": null
+            },
+            {
+                "id": 20,
+                "name": "recording 20",
+                "location": "https://arweave.net/yfsymjvKPbZQob-xFNzjoCJ2SmE_5iNXQNpWqOP3YbM",
+                "description": "no description, just art",
+                "length": null
+            },
+            {
+                "id": 19,
+                "name": "recording 19",
+                "location": "https://arweave.net/UZt6w7wW9XeTmCjwwE8p6kRAUVNsMbhHmKf43TOnKDo",
+                "description": "no description, just art",
+                "length": null
+            },
+            {
+                "id": 18,
+                "name": "recording 18",
+                "location": "https://arweave.net/VqEw0MeENmYbphIdOPep5aU2NDJatXKL6CWcd40YWkM",
+                "description": "squirrels running down tree @ 0:33",
+                "length": null
+            },
+            {
+                "id": 17,
+                "name": "recording 17",
+                "location": "https://arweave.net/DA39GZb91RZ9kTIADzAKPXItnmxWHft3M-i2z6PZJrk",
+                "description": "no description, just art",
+                "length": null
+            },
+            {
+                "id": 16,
+                "name": "recording 16",
+                "location": "https://arweave.net/n8sBGtH9zUaBolnrNi-loATeJQSyn45ak0KSaF_aF-0",
+                "description": "no description, just art",
+                "length": null
+            },
+            {
+                "id": 15,
+                "name": "recording 15",
+                "location": "https://arweave.net/4zhIJy_AepOtJJRCMrHpOPG_AYTfTxtbJ7NjZemWZ7s",
+                "description": "no description, just art",
+                "length": null
+            },
+            {
+                "id": 14,
+                "name": "recording 14",
+                "location": "https://arweave.net/skXC_Rb1Yzy_7ZSqvewEibIH3wXP8XfCkb64qryKmWI",
+                "description": "no description, just art",
+                "length": null
+            },
+            {
+                "id": 13,
+                "name": "recording 13",
+                "location": "https://arweave.net/WRyzMp5R4vEp9Wb3aFrzr6z7KltvHpR_rSGxzw9Sg8U",
+                "description": "no description, just art",
+                "length": null
+            },
+            {
+                "id": 12,
+                "name": "recording 12",
+                "location": "https://arweave.net/mSZLp4UkS1WhqhJO2WmmhmTj0AKv4UeTObP3Gfr7dmA",
+                "description": "no description, just art",
+                "length": null
+            },
+            {
+                "id": 11,
+                "name": "recording 11",
+                "location": "https://arweave.net/Ng0OL6ArWUPN77ZqBSuTGiLkV5Ggt8qQ0IAgBPVZBmU",
+                "description": "no description, just art",
+                "length": null
+            },
+            {
+                "id": 10,
+                "name": "recording 10",
+                "location": "https://arweave.net/cvbH1NFojjOhZ1Q7DbDnKOw49JxgXyLfG_BkoEHesOY",
+                "description": "no description, just art",
+                "length": null
+            },
+            {
+                "id": 9,
+                "name": "recording 9",
+                "location": "https://arweave.net/tPQrcyyKzkDEFiqIQGZbfhS1K_NyQPOLW-W7Mzm3fZM",
+                "description": "no description, just art",
+                "length": null
+            },
+            {
+                "id": 8,
+                "name": "recording 8",
+                "location": "https://arweave.net/KW408wDpXIJFBvhU_BKN4CRK7ie6LoT3Dt7IAV6KMM4",
+                "description": "no description, just art",
+                "length": null
+            },
+            {
+                "id": 7,
+                "name": "recording 7",
+                "location": "https://arweave.net/0_Ka620lm8UbTmBnAIrerjhV7NLzBGts2NxYBK9TJNU",
+                "description": "no description, just art",
+                "length": null
+            },
+            {
+                "id": 6,
+                "name": "recording 6",
+                "location": "https://arweave.net/VLinQFHcmUDDT08Bvf88O32Mj9-WhJUXnHr7MbxLBx8",
+                "description": "no description, just art",
+                "length": null
+            },
+            {
+                "id": 5,
+                "name": "recording 5",
+                "location": "https://arweave.net/DbeRdqtOTXUgj4VpfZLPFvPypYH_wUonc8xEUZ_qBaA",
+                "description": "no description, just art",
+                "length": null
+            },
+            {
+                "id": 4,
+                "name": "recording 4",
+                "location": "https://arweave.net/INktFcub1TF48RvYyMgkIqMUIyfEyvCgfA3rYgtwI54",
+                "description": "no description, just art",
+                "length": null
+            },
+            {
+                "id": 3,
+                "name": "recording 3",
+                "location": "https://arweave.net/mmwg3NNDsTCuHhJNawpTTQ1lxHKseoYMytqNtWz6IFU",
+                "description": "no description, just art",
+                "length": null
+            },
+            {
+                "id": 2,
+                "name": "recording 2",
+                "location": "https://arweave.net/NeNMrKU2Z4hSg_GQOOTdP7Fecznv5xAb1j2LP7lUnB0",
+                "description": "no description, just art",
+                "length": null
+            },
+            {
+                "id": 1,
+                "name": "recording 1",
+                "location": "https://arweave.net/G3sfBCexHU2rOLBrkif4oLwQ7Nes2mDdjqJFwxvRjDA",
+                "description": "no description, just art",
+                "length": null
+            }
+        ]
+    },
+    "wood recordings": {
+        "id": 5,
+        "description": "natural habitat",
+        "tracks": [
+            {
+                "id": 56,
+                "name": "forest 56",
+                "location": "https://arweave.net/8aLUVznTfM2koIV3ZQxvn50U6ytMMuWyTkHC5RETcpA",
+                "description": "December sessions",
+                "length": 2.00
+            },
+            {
+                "id": 55,
+                "name": "forest 55",
+                "location": "https://arweave.net/SL_E39vzJIjsoxFjd-cMKjj8O_CszNPJH_zU69r07p4",
+                "description": "December sessions",
+                "length": 3.10
+            },
+            {
+                "id": 54,
+                "name": "forest 54",
+                "location": "https://arweave.net/eXcOAgXhbHmAYrburs8ZvkJrL7rJJ87c7dJtgEu-AcM",
+                "description": "December sessions",
+                "length": 2.21
+            },
+            {
+                "id": 53,
+                "name": "forest 53",
+                "location": "https://arweave.net/3kO11qZFWVnW7KSc2omiaQbI1bmeV9Iw-jYJMjUivKs",
+                "description": "November sessions",
+                "length": 3.34
+            },
+            {
+                "id": 52,
+                "name": "forest 52",
+                "location": "https://arweave.net/LzEll_81C2hVV9oB37UVg3NWYJyM5nRrVtV9wYDsFt0",
+                "description": "November sessions",
+                "length": 3.19
+            },
+            {
+                "id": 51,
+                "name": "forest 51",
+                "location": "https://arweave.net/jhiCoUlbP1hfCdhaY4hVZoKCQBEMOMLVZd4Eb5eqZuU",
+                "description": "November sessions",
+                "length": 12.28
+            },
+            {
+                "id": 50,
+                "name": "forest 50",
+                "location": "https://arweave.net/vsnqG6F9hhR51LNz9ENOSUFBOkjn48nuspJtCx_p7-w",
+                "description": "November sessions",
+                "length": 4.45
+            },
+            {
+                "id": 49,
+                "name": "forest 49",
+                "location": "https://arweave.net/RkSV_XcGfTOqgooB81ePmVXUbcvj-H8Ibkveqx57Qjw",
+                "description": "angus and julia free jazz",
+                "length": 1.32
+            },
+            {
+                "id": 48,
+                "name": "forest 48",
+                "location": "https://arweave.net/JBkLyQ7A47xCgNmZlRxIMDfG0gnqUNj7N2KoVJ4HGeI",
+                "description": "a release of ...",
+                "length": 2.01
+            },
+            {
+                "id": 47,
+                "name": "forest 47",
+                "location": "https://arweave.net/QjNLNx14boRW8W9dhlzpZg61VYhDF-suQjKSwVR96YI",
+                "description": "wail by the creek @ 4:25",
+                "length": 6.29
+            },
+            {
+                "id": 46,
+                "name": "forest 46",
+                "location": "https://arweave.net/70FYPU-ENMbMtpzabjx5iGLoZRsGnQgnlYfhrkOvKlU",
+                "description": "October sessions",
+                "length": 3.05
+            },
+            {
+                "id": 45,
+                "name": "forest 45",
+                "location": "https://arweave.net/hlQC8EKy1hTTmAKvkAjZHsvBVS2i40bP_yPGlQ27wqY",
+                "description": "commuter vibes",
+                "length": 4.42
+            },
+            {
+                "id": 44,
+                "name": "forest 44",
+                "location": "https://arweave.net/OsEYwpL6WiSi0-Bdvpt38AUuLTkOEp1lJY3twSJkHmY",
+                "description": "struggling with breath on high notes, birds still laughing",
+                "length": 1.10
+            },
+            {
+                "id": 43,
+                "name": "forest 43",
+                "location": "https://arweave.net/uDUXnhyeQvQZpcwf2y_R5g9nYKIJYLF3a9MP6NZcMW4",
+                "description": "laughing bird @ 0:56 ",
+                "length": 4.04
+            },
+            {
+                "id": 42,
+                "name": "forest 42",
+                "location": "https://arweave.net/vJ81pa9UHn93R4x8gXfZd4N7ULdyU3FSWI_eG9Nxwfk",
+                "description": "call are response mid origami folding",
+                "length": 11.39
+            },
+            {
+                "id": 41,
+                "name": "forest 41",
+                "location": "https://arweave.net/0u1p52WoSJCfqUOhx6kHoYJkeUSyL8eDe6tQ3kcNUXQ",
+                "description": "echo chamber",
+                "length": 4.22
+            },
+            {
+                "id": 40,
+                "name": "forest 40",
+                "location": "https://arweave.net/03SD-Njemu-gDN-S_Xu00w1z5slX5tYLnwovQZyYm3A",
+                "description": "no description, just art",
+                "length": 1.25
+            },
+            {
+                "id": 39,
+                "name": "forest 39",
+                "location": "https://arweave.net/jzaZmdP_BuXuFS2llb9pbDcIINOXRyE8P1XksJhP8LA",
+                "description": "call and response",
+                "length": 2.41
+            },
+            {
+                "id": 38,
+                "name": "forest 38",
+                "location": "https://arweave.net/xoaTzH3oxs2ira8sDeXBMD8Z4ZwYN6L498CM63KL1-E",
+                "description": "speed test",
+                "length": 3.40
+            },
+            {
+                "id": 37,
+                "name": "forest 37",
+                "location": "https://arweave.net/ewH7FjuEYS-rEQLZGcMYvTCnccTy9OzZ2YCp8lBrIbI",
+                "description": "right hand only",
+                "length": 2.24
+            },
+            {
+                "id": 36,
+                "name": "forest 36",
+                "location": "https://arweave.net/JjozE9bdgBkBmitdFh7-WOa5nZ3232NYXJ_vq-9QSGI",
+                "description": "call and response with ocarina and flute",
+                "length": 2.31
+            },
+            {
+                "id": 35,
+                "name": "forest 35",
+                "location": "https://arweave.net/DL1MOY__KsB6zboEYVEEh97wRHOcFYUKh0azbr3gzGM",
+                "description": "more flute play",
+                "length": 2.44
+            },
+            {
+                "id": 34,
+                "name": "forest 34",
+                "location": "https://arweave.net/bj-abZpNWTPMx4ZtDnWvkuY7OvTws0cvDurVfslFXc0",
+                "description": "more flute play",
+                "length": 3.18
+            },
+            {
+                "id": 33,
+                "name": "forest 33",
+                "location": "https://arweave.net/J9a3UFM_xg8cdbhdKP7ThMwCwzFqUAf27Pk5gO83-Xo",
+                "description": "prairie interlude too",
+                "length": 8.19
+            },
+            {
+                "id": 32,
+                "name": "forest 32",
+                "location": "https://arweave.net/U6yOjQmxvyw941-MfO01axfWA3HxJ5ZGnUQ6dMLD8-s",
+                "description": "prairie interlude",
+                "length": 1.18
+            },
+            {
+                "id": 31,
+                "name": "forest 31",
+                "location": "https://arweave.net/ikzST_aUV31Em2dakULnDBAtNlAylqTaQvTILOHsiY4",
+                "description": "solstice melody",
+                "length": 2.08
+            },
+            {
+                "id": 30,
+                "name": "forest 30",
+                "location": "https://arweave.net/yE4zxrvqEAcQC9PNWiB0kxOwn1jJKucUte3nLP_WqUo",
+                "description": "bird call, wind response",
+                "length": 3.08
+            },
+            {
+                "id": 29,
+                "name": "forest 29",
+                "location": "https://arweave.net/ADckTqfNozu-vPy32ML2f7IhZFCTqZ2c16fZmmWQGvU",
+                "description": "breath work",
+                "length": 3.36
+            },
+            {
+                "id": 28,
+                "name": "forest 28",
+                "location": "https://arweave.net/J5CsiL1J3FXYVGl1ovrkZ6bqW22PI2HZUdSWuxxHofo",
+                "description": "bird solo @ 1:30",
+                "length": 3.20
+            },
+            {
+                "id": 27,
+                "name": "forest 27",
+                "location": "https://arweave.net/EGqbBh2h9RkMPLYuINQjiRZf3gt89PX_F8kkFasFFj0",
+                "description": "melody practice",
+                "length": 3.19
+            },
+            {
+                "id": 26,
+                "name": "forest 26",
+                "location": "https://arweave.net/_4XpOwYk_5XQpk-qPiwLgBQXgtoWyKOVHDmZkMHlAOs",
+                "description": "breathing practice",
+                "length": 1.50
+            },
+            {
+                "id": 25,
+                "name": "forest 25",
+                "location": "https://arweave.net/T3fEkanyT4xfTJs0KAcdg7utvPOOW8qcara_gp6e0OY",
+                "description": "more spring vibes",
+                "length": 2.31
+            },
+            {
+                "id": 24,
+                "name": "forest 24",
+                "location": "https://arweave.net/rbHaDiDjdxyziq1fZf9T9Ft2kUg34itOCchcBw-VFBs",
+                "description": "spring vibes",
+                "length": 1.55
+            },
+            {
+                "id": 23,
+                "name": "forest 23",
+                "location": "https://arweave.net/0BbbJDElb9_21nOGmevU8UVJA4bM1bJkoX9_AisYUQQ",
+                "description": "vibing out with prairie birds",
+                "length": 3.19
+            },
+            {
+                "id": 22,
+                "name": "forest 22",
+                "location": "https://arweave.net/PA4zHzYKNCWsy_MaGYUSjSoIZ_3b66WpP277yyBHC-4",
+                "description": "beside the echo chamber",
+                "length": 2.01
+            },
+            {
+                "id": 21,
+                "name": "forest 21",
+                "location": "https://arweave.net/lyFk_WUjBDYbz6AkJBfyZXfA6KgGTc2qtBudUAtvuPw",
+                "description": "bandstand skytrain note",
+                "length": 2.24
+            },
+            {
+                "id": 20,
+                "name": "forest 20",
+                "location": "https://arweave.net/W5nv3KziU1pban6DdSIV4FVQ5nUzrA8qN7mVC0JZ8Kw",
+                "description": "no description, just art",
+                "length": 3.05
+            },
+            {
+                "id": 19,
+                "name": "forest 19",
+                "location": "https://arweave.net/nFFYP7CwHKMLvCS5nbIoTChwkMTDjZDXoGFMjD9bMRE",
+                "description": "bandstand",
+                "length": 2.30
+            },
+            {
+                "id": 18,
+                "name": "forest 18",
+                "location": "https://arweave.net/jGKqLCkApiNGceNePMRFj_CU6ApcxgFtv806kEyRIUI",
+                "description": "birds only from 3:20",
+                "length": 7.41
+            },
+            {
+                "id": 17,
+                "name": "forest 17",
+                "location": "https://arweave.net/AVLXcQihdTlE-eHmlZ4BCbtMsJaO9Lq61PVvi3qqCD8",
+                "description": "bandstand breath exercise",
+                "length": 2.00
+            },
+            {
+                "id": 16,
+                "name": "forest 16",
+                "location": "https://arweave.net/Y8N2lG8dMsC3YKbfgNZWUjIwXZEVAQIIp-0zVV7mtWg",
+                "description": "bandstand",
+                "length": 2.10
+            },
+            {
+                "id": 15,
+                "name": "forest 15",
+                "location": "https://arweave.net/oPrrrigy8MwFZyfgaVyge9--DTiSwF545jdVKEasLgQ",
+                "description": "no description, just art",
+                "length": 5.40
+            },
+            {
+                "id": 14,
+                "name": "forest 14",
+                "location": "https://arweave.net/oIvsCpgaFt0wl4WzpuyeOUdre-Ghfs0mP5GMtQRAfp0",
+                "description": "transition into ocarina",
+                "length": 2.01
+            },
+            {
+                "id": 13,
+                "name": "forest 13",
+                "location": "https://arweave.net/Vvk1tV4uYGSm8zrLpFhWs0PS7sGunrZjyi4UGhQwW5w",
+                "description": "no description, just art",
+                "length": 4.20
+            },
+            {
+                "id": 12,
+                "name": "forest 12",
+                "location": "https://arweave.net/9dodgUhXOYtc_j8BjZb8nXXkvVJFLYCn0JC9x4hRiO4",
+                "description": "no description, just art",
+                "length": 3.49
+            },
+            {
+                "id": 11,
+                "name": "forest 11",
+                "location": "https://arweave.net/WY8yvvp9mTn6VkhceGL_Sn2YrkLN8zhatBhPJr9sdyI",
+                "description": "no description, just art",
+                "length": 2.00
+            },
+            {
+                "id": 10,
+                "name": "forest 10",
+                "location": "https://arweave.net/pYSLW6xO1SNVRMael9e2BeVRViY49tAWVAXaf-p9n0I",
+                "description": "bandstand",
+                "length": 4.20
+            },
+            {
+                "id": 9,
+                "name": "forest 9",
+                "location": "https://arweave.net/2yEewalI56Galj7EZ1I4UTr9U1Iriu5PYwXD2zroKRA",
+                "description": "bandstand",
+                "length": 4.20
+            },
+            {
+                "id": 8,
+                "name": "forest 8",
+                "location": "https://arweave.net/TyWXQAB-3mi6m0xUOaYS_m2DRe4AtD4QlVhmOHswyA0",
+                "description": "bandstand",
+                "length": 4.20
+            },
+            {
+                "id": 7,
+                "name": "forest 7",
+                "location": "https://arweave.net/5GvcDh-Z-0fAqaYr36DgvcwWD7aBz3BwmwWytjzC0Z8",
+                "description": "no description, just art",
+                "length": 5.02
+            },
+            {
+                "id": 6,
+                "name": "forest 6",
+                "location": "https://arweave.net/pufhCbfGIAdlDK-H5lAzdXLk6B_sXUBEQXAq49mFBdo",
+                "description": "no description, just art",
+                "length": 3.02
+            },
+            {
+                "id": 5,
+                "name": "forest 5",
+                "location": "https://arweave.net/kkAqYk2gaiQ1QAgTFGKoeIyhnIzM-sX09t-xw3HSzwI",
+                "description": "no description, just art",
+                "length": 4.00
+            },
+            {
+                "id": 4,
+                "name": "forest 4",
+                "location": "https://arweave.net/rgIbnj5fOxuSpXJ1vGa8vRYRVwNKj9mK4ACq0t5yqrY",
+                "description": "no description, just art",
+                "length": 0.40
+            },
+            {
+                "id": 3,
+                "name": "forest 3",
+                "location": "https://arweave.net/LVu-y3nG3nhOGRbepHuXNIFnpPXetlHuVSlCDKoSU8Y",
+                "description": "no description, just art",
+                "length": 2.14
+            },
+            {
+                "id": 2,
+                "name": "forest 2",
+                "location": "https://arweave.net/Ibcd2QSCQNYwJxsvOj7JZu7j3STJbh_x8IjawPoshsU",
+                "description": "no description, just art",
+                "length": 1.02
+            },
+            {
+                "id": 1,
+                "name": "forest 1",
+                "location": "https://arweave.net/nWWlFkfA6363ZUA5CjgTWFBE8jbL_D23eCHpetyDQp8",
+                "description": "no description, just art",
+                "length": 6.00
+            }
+        ]
+    }
+}

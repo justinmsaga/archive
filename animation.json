@@ -1,0 +1,18 @@
+{
+    "such is life": {
+        "id": 1,
+        "name": "life = true",
+        "location": "https://arweave.net/RTRXhvNqhvm4jRf_Q6V1wtorg9nYs9c4zW_euxL_kRk",
+        "description" : "a problem solving algorithm",
+        "length": 0.11 
+    },
+
+    "let there be light": {
+        "id": 2,
+        "name" : "let there be light",
+        "location" : "https://arweave.net/6DUxyflSM_8UEMGslYRLCJaQQXCuNks_iIOH1EOJ1Fk",
+        "description": "a short story",
+        "length" : 2.36
+
+    }
+}
