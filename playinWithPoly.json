@@ -1,0 +1,104 @@
+{
+    "poly": [
+        {
+            "id": 1,
+            "name": "poly punk pt 1",
+            "location": "https://arweave.net/goE9lQYG-HwQPTi0nF8xZCku_TILhg_nwOvU1iROGvQ",
+            "description": "my first poly art"
+        },
+        {
+            "id": 2,
+            "name": "crane",
+            "location": "https://arweave.net/SIti7uC5CQDDmLqK01V6NJc7l2n0qlFhAurEo_69T-k",
+            "description": "poly origami crane"
+        },
+        {
+            "id": 3,
+            "name": "party bus",
+            "location": "https://arweave.net/pg0vMOpxtYwO-2JJYDFfjJu1DXD83ZnBb3KkREQyR5k",
+            "description": "get in loser, we're going solarpunking"
+        },
+        {
+            "id": 4,
+            "name": "same same, but different",
+            "location": "https://arweave.net/GU1DG6U76sl-Bmj3Gsp3sK5wzXKn-X30rb8LkuO-VnQ",
+            "description": "weapons of mass creation"
+        },
+        {
+            "id": 5,
+            "name": "fingerprints",
+            "location": "https://arweave.net/GU1DG6U76sl-Bmj3Gsp3sK5wzXKn-X30rb8LkuO-VnQ",
+            "description": "grains of ego left in time and space"
+        },
+        {
+            "id": 6,
+            "name": "giraffe",
+            "location": "https://arweave.net/nxO1XJt0iNZYMOCW-4QR04CKTHANuAijEZwnIOvywRg",
+            "description": "live and cheeky from the motherland"
+        },
+        {
+            "id": 7,
+            "name": "issa dhow",
+            "location": "https://arweave.net/8Wi7rBrkBzCVa2jRe9x7GfxtvP7kv46vaVFvqk4RCAU",
+            "description": "live and floaty from the motherland"
+        },
+        {
+            "id": 8,
+            "name": "Glickenhaus blue",
+            "location": "https://arweave.net/weZZOn2p6hFdG9yHvYCZqtl2ZJrCxImh07X11Gx0urU",
+            "description": "SCG007LMH at Monza"
+        },
+        {
+            "id": 9,
+            "name": "stormtrooper rari",
+            "location": "https://arweave.net/tNA3GmpeQ1k3tViU4yGx-hWim_SBpLFtNn-RXLMx5lY",
+            "description": "the beauty of simplicity"
+        },
+        {
+            "id": 10,
+            "name": "eau rouge",
+            "location": "https://arweave.net/f3IOD_unxm1jQDPpgNtR4XQQQhbhwtqe5289f6W7rSQ",
+            "description": "Senna in mp4/4 at Spa"
+        },
+        {
+            "id": 11,
+            "name": "which way?",
+            "location": "https://arweave.net/8O7qFCeYCuMQ_4T_lve4KQLGYDZaED700rAvliVVzcE",
+            "description": "directions with a sprinkling of salt"
+        },
+        {
+            "id": 12,
+            "name": "reflection",
+            "location": "https://arweave.net/jPW3SwZqv7kHizglAGOdS1BTqYYKJcj4NpM0e1fT538",
+            "description": "playin with light"
+        }
+    ],
+    "baked chronicles": [
+        {
+            "id": 1,
+            "name": "cover",
+            "location": "https://arweave.net/S2kjRTpqYE27CwsjhBFE3HbqjVVP0kJ5VOuEuIRz8pU",
+            "description": "baked chronicles zine base cover"
+        },
+        {
+            "id": 2,
+            "name": "dark cover",
+            "location": "https://arweave.net/efZjNPAv7njVVHi0DZdPlp7_Ic330n6SczjyR_eVUVw",
+            "description": "bc zine night cover"
+        }
+    ],
+    "echo": [
+        {
+            "id": 1,
+            "name": "sk8 chamber",
+            "location": "https://arweave.net/DCiSaQePb0cTBKeCBzlrrLnphOzF-t8Z0dpp1p2ONPU",
+            "description": "echo chamber zine cover"
+        },
+        {
+            "id": 2,
+            "name": "wailing ocarina",
+            "location": "https://arweave.net/BhiOUskFM6MFYkt6AJMV1G2P_DJxZUaw6UwxN8Wtye0",
+            "description": "medium of echo chamber 2.0"
+        }
+    ]
+}
