@@ -6,7 +6,7 @@
         "description": "first algorithmic composition",
         "length": 26.43
     },
-    "human in the loop vol 1": {
+    "human_in_the_loop_vol_1": {
         "id": 2,
         "description": "freestyle with flute and drum",
         "tracks": [
@@ -66,7 +66,7 @@
             }
         ]
     },
-    "echo chamber": {
+    "echo_chamber": {
         "id": 3,
         "description": "creative sandbox",
         "series 1": {
@@ -160,7 +160,7 @@
             ]
         }
     },
-    "wind recording": {
+    "wind_recording": {
         "id": 4,
         "description": "exploration of soundscapes",
         "tracks": [
@@ -733,7 +733,7 @@
             }
         ]
     },
-    "wood recordings": {
+    "wood_recordings": {
         "id": 5,
         "description": "natural habitat",
         "tracks": [
