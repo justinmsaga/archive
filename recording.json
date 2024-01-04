@@ -166,14 +166,14 @@
         "tracks": [
             {
                 "id": 80,
-                "name": "recording 80",
+                "name": "recording 80*",
                 "location": "https://arweave.net/0Ywfi4IvLBwYJxukrCnMd2RE0ccMENETmJlODDW4nTc",
                 "description": "December sessions",
                 "length": 2.29
             },
             {
                 "id": 79,
-                "name": "recording 79",
+                "name": "recording 79*",
                 "location": "https://arweave.net/PE0Ca8F-HzEd_UxdyfRNKzjkTi2SsJ3li5wgZOEzjuU",
                 "description": "December sessions",
                 "length": 2.50
@@ -732,21 +732,21 @@
         "tracks": [
             {
                 "id": 56,
-                "name": "forest 56",
+                "name": "forest 56*",
                 "location": "https://arweave.net/8aLUVznTfM2koIV3ZQxvn50U6ytMMuWyTkHC5RETcpA",
                 "description": "December sessions",
                 "length": 2.00
             },
             {
                 "id": 55,
-                "name": "forest 55",
+                "name": "forest 55*",
                 "location": "https://arweave.net/SL_E39vzJIjsoxFjd-cMKjj8O_CszNPJH_zU69r07p4",
                 "description": "December sessions",
                 "length": 3.10
             },
             {
                 "id": 54,
-                "name": "forest 54",
+                "name": "forest 54*",
                 "location": "https://arweave.net/eXcOAgXhbHmAYrburs8ZvkJrL7rJJ87c7dJtgEu-AcM",
                 "description": "December sessions",
                 "length": 2.21
