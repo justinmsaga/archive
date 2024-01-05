@@ -69,8 +69,8 @@
     "echo_chamber": {
         "id": 3,
         "description": "creative sandbox",
-        "series 1": {
-            "vol 1": [
+        "series_1": {
+            "vol_1": [
                 {
                     "id": 1,
                     "name": "echo 0",
@@ -150,7 +150,7 @@
                     "length": 2.26
                 }
             ],
-            "vol 2": [
+            "vol_2": [
                 {
                     "id": 1,
                     "name": "graffiti echo",
