@@ -179,15 +179,36 @@
         "description": "exploration of soundscapes",
         "tracks": [
             {
+                "id": 83,
+                "name": "recording 83*",
+                "location": "https://arweave.net/UiW3bMPDtKJsHKdDyrEnjb395jJ79UWuIFH5plszwXE",
+                "description": "January sessions",
+                "length": 1.51
+            },
+            {
+                "id": 82,
+                "name": "recording 82*",
+                "location": "https://arweave.net/C3Ctu23e6t6GbnxY3qYxjHMrIur54r025dNldHWhQrs",
+                "description": "January sessions",
+                "length": 2.37
+            },
+            {
+                "id": 81,
+                "name": "recording 81*",
+                "location": "https://arweave.net/kNPPwKp3HNWTwlFuXaLkJHQ9KuTt_TrVHP0YN6Gxn44",
+                "description": "January sessions",
+                "length": 2.18 
+            },
+            {
                 "id": 80,
-                "name": "recording 80*",
+                "name": "recording 80",
                 "location": "https://arweave.net/0Ywfi4IvLBwYJxukrCnMd2RE0ccMENETmJlODDW4nTc",
                 "description": "December sessions",
                 "length": 2.29
             },
             {
                 "id": 79,
-                "name": "recording 79*",
+                "name": "recording 79",
                 "location": "https://arweave.net/PE0Ca8F-HzEd_UxdyfRNKzjkTi2SsJ3li5wgZOEzjuU",
                 "description": "December sessions",
                 "length": 2.50
@@ -745,22 +766,50 @@
         "description": "natural habitat",
         "tracks": [
             {
+                "id": 60,
+                "name": "forest 60*",
+                "location": "https://arweave.net/OwVRCSdwPn7Rjkjj3WhSCT4EAZjwaM2YxG7VTi4yecc",
+                "description": "January sessions",
+                "length": 2.27
+            },
+            {
+                "id": 59,
+                "name": "forest 59*",
+                "location": "https://arweave.net/GnR43yGSgXzwHKcRzxckF5_2HVvdbB_-QFpzXGLISdA",
+                "description": "January sessions",
+                "length": 2.50
+            },
+            {
+                "id": 58,
+                "name": "forest 58*",
+                "location": "https://arweave.net/yqJEJe3MRE0YypVKq_Edf0aiQwcq2WHRvObDLkDVlRs",
+                "description": "January sessions",
+                "length": 1.10 
+            },
+            {
+                "id": 57,
+                "name": "forest 57*",
+                "location": "https://arweave.net/9WjJESXSvaRAPZAWw19elBi7PY1SX5nT91NA_wKvwUw",
+                "description": "January sessions",
+                "length": 1.49 
+            },
+            {
                 "id": 56,
-                "name": "forest 56*",
+                "name": "forest 56",
                 "location": "https://arweave.net/8aLUVznTfM2koIV3ZQxvn50U6ytMMuWyTkHC5RETcpA",
                 "description": "December sessions",
                 "length": 2.00
             },
             {
                 "id": 55,
-                "name": "forest 55*",
+                "name": "forest 55",
                 "location": "https://arweave.net/SL_E39vzJIjsoxFjd-cMKjj8O_CszNPJH_zU69r07p4",
                 "description": "December sessions",
                 "length": 3.10
             },
             {
                 "id": 54,
-                "name": "forest 54*",
+                "name": "forest 54",
                 "location": "https://arweave.net/eXcOAgXhbHmAYrburs8ZvkJrL7rJJ87c7dJtgEu-AcM",
                 "description": "December sessions",
                 "length": 2.21
