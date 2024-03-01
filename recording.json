@@ -179,22 +179,36 @@
         "description": "exploration of soundscapes",
         "tracks": [
             {
+                "id": 85,
+                "name": "recording 85*",
+                "location": "https://arweave.net/XXGF5FIhtqPKFDF1AGnV6we6JlW21UlSQ4cOP1icWpI",
+                "description": "live from the deerverse",
+                "length": null
+            },
+            {
+                "id": 84,
+                "name": "recording 84*",
+                "location": "https://arweave.net/NGhJAOqt2M061PmQo4D1L9VsyTlJL9izxMjHgrfmDns",
+                "description": "live from the deerverse",
+                "length": null
+            },
+            {
                 "id": 83,
-                "name": "recording 83*",
+                "name": "recording 83",
                 "location": "https://arweave.net/UiW3bMPDtKJsHKdDyrEnjb395jJ79UWuIFH5plszwXE",
                 "description": "January sessions",
                 "length": null
             },
             {
                 "id": 82,
-                "name": "recording 82*",
+                "name": "recording 82",
                 "location": "https://arweave.net/C3Ctu23e6t6GbnxY3qYxjHMrIur54r025dNldHWhQrs",
                 "description": "January sessions",
                 "length": null
             },
             {
                 "id": 81,
-                "name": "recording 81*",
+                "name": "recording 81",
                 "location": "https://arweave.net/kNPPwKp3HNWTwlFuXaLkJHQ9KuTt_TrVHP0YN6Gxn44",
                 "description": "January sessions",
                 "length": null
@@ -766,29 +780,43 @@
         "description": "natural habitat",
         "tracks": [
             {
+                "id": 62,
+                "name": "forest 62*",
+                "location": "https://arweave.net/6IDMSinNeQx0J1tg4wONxSlQGLrgEiF-mvKd9wV44Go",
+                "description": "live from the deerverse",
+                "length": 1.15
+            },
+            {
+                "id": 61,
+                "name": "forest 61*",
+                "location": "https://arweave.net/UOaiTYf5xTD_msxulbrIBst1WMhiqwlzL-Yb2QL_heU",
+                "description": "live from the deerverse",
+                "length": 1.05
+            },
+            {
                 "id": 60,
-                "name": "forest 60*",
+                "name": "forest 60",
                 "location": "https://arweave.net/OwVRCSdwPn7Rjkjj3WhSCT4EAZjwaM2YxG7VTi4yecc",
                 "description": "January sessions",
                 "length": 2.27
             },
             {
                 "id": 59,
-                "name": "forest 59*",
+                "name": "forest 59",
                 "location": "https://arweave.net/GnR43yGSgXzwHKcRzxckF5_2HVvdbB_-QFpzXGLISdA",
                 "description": "January sessions",
                 "length": 2.50
             },
             {
                 "id": 58,
-                "name": "forest 58*",
+                "name": "forest 58",
                 "location": "https://arweave.net/yqJEJe3MRE0YypVKq_Edf0aiQwcq2WHRvObDLkDVlRs",
                 "description": "January sessions",
                 "length": 1.10 
             },
             {
                 "id": 57,
-                "name": "forest 57*",
+                "name": "forest 57",
                 "location": "https://arweave.net/9WjJESXSvaRAPZAWw19elBi7PY1SX5nT91NA_wKvwUw",
                 "description": "January sessions",
                 "length": 1.49 
